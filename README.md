@@ -16,4 +16,4 @@ Opencore:0.8.5
  
  https://github.com/acidanthera.html
  
- https://dortania.github.io/OpenCore-Install-Guide.html
+https://dortania.github.io/OpenCore-Install-Guide/config.plist/ivy-bridge.html
