@@ -11,6 +11,11 @@ SMBIOS: iMac 19,1
 macOS: Ventura Beta
 Opencore:0.8.5
 
+Siga o Universo Hackintoshi para saber tudo sobre hackintosh.
+
+## [Universo Hackintoshi no Youtube](https://www.youtube.com/c/GabrielLuchina)
+
+## [Universo Hackintoshi no Discord](https://universohackintosh.com/DISCORD)
 
 
  Creditos a equipe da Acidanthera e Dortania.
