@@ -9,7 +9,7 @@ Vídeo: AMD Radeon R7 265 2G
 Áudio: Realtek ALC892
 SMBIOS: iMac 19,1
 macOS: Ventura Beta
-Opencore:0.8.5 ```   
+Opencore:0.8.5
 
 
 
